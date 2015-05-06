@@ -33,6 +33,9 @@ public class Desperado {
 	 */
 
 	public static void main(String[] args) {
+		
+		
+		
 		ArrayList<Card> deck = new ArrayList<Card>();
 		StackDeck(deck);
 		DealThemCards(deck);
